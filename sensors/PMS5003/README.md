@@ -2,6 +2,21 @@
 
 ## Particulate Matter Sensor
 
+### Outputs
+
+ - PM 1.0 standard
+ - PM 2.5 standard
+ - PM 10 standard
+ - PM 1.0 atmospheric
+ - PM 2.5 atmospheric
+ - PM 10 atmospheric
+ - UM 0.3
+ - UM 0.5
+ - UM 1.0
+ - UM 2.5
+ - UM 5.0
+ - UM 10
+
 ### Install prerequisites
 
 - Micropython (tested with v1.20.0)

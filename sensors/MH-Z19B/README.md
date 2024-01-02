@@ -2,6 +2,10 @@
 
 ## CO2 sensor
 
+### Outputs
+
+- CO2 / ppm
+
 ### Install prerequisites
 
 - Micropython (tested with v1.20.0)
