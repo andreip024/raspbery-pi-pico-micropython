@@ -2,6 +2,13 @@
 
 ## Gas/Smoke Sensor
 
+### Outputs
+
+- Smoke / ppm
+- LGP (Liquefied petroleum gas) / ppm
+- Methane / ppm
+- Hydrogen / ppm 
+
 ### Install prerequisites
 
 - Micropython (tested with v1.20.0)
