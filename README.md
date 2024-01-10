@@ -1,4 +1,4 @@
-# Raspberry Pi Pico W sensors, modles and scripts in Micropython  
+# Raspberry Pi Pico W sensors, modules and scripts in Micropython  
   
 
 <p align="center">
