@@ -42,7 +42,7 @@ GND -> GND (black)
 SET -> GP3 (brown)  
 TX  -> GP9 (green)  
 RX  -> GP8 (white)  
-RESET -> GP4 (pink)  
+RESET -> GP2 (pink)  
 
 ### Wiring Diagram
 
